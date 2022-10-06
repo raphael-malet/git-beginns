@@ -3,3 +3,7 @@ git add --all (permet d'ajouter tous le repertoire du repositori pour commencer 
 git commit -m 'commentaire sur le transfert qu'on effectue' ( permet de mettre un commentaire sur les modification pour connaitre l'interret du push ) 
 git push -u shell main ( permet de push / faire une update du repositories sur github ) 
 git pull
+git branch nom-de-la-branch ( permet d'ajouter une branch )
+git checkout nom-de-la-branch ( permet de switch de branch )
+git switch nom-de-la-bran ( auttre commande pour switch d branch )  
+git branch ( permet de vérifier dans quelle branch on se situe ) 
