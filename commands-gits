@@ -1,0 +1,6 @@
+git clone git@github.com:raphael-malet/repositori_name.git (permet de clone le repositories ) 
+git add --all (permet d'ajouter tous le repertoire du repositori pour commencer le push ) 
+git commit -m 'commentaire sur le transfert qu'on effectue' ( permet de mettre un commentaire sur les modification pour connaitre l'interret du push ) 
+git push -u shell main ( permet de push / faire une update du repositories sur github ) 
+git pull ( permet de pull ) 
+
